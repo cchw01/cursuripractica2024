@@ -1,0 +1,14 @@
+.form-div{
+    display: grid;
+    grid-template-columns: 140px 200px;
+    grid-template-areas: "theText theImput";
+    padding-bottom: 20px;
+}
+
+.form-div-text{
+    grid-area:theText;
+}
+
+.form-div-input{
+    grid-area: theImput;
+}
