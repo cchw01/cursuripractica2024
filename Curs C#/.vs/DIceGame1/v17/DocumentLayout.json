@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\DIceGame1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|c:\\users\\user\\source\\repos\\dicegame1\\dicegame1\\datalayer\\playerdataops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|solutionrelative:dicegame1\\datalayer\\playerdataops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|c:\\users\\user\\source\\repos\\dicegame1\\dicegame1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|solutionrelative:dicegame1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|c:\\users\\user\\source\\repos\\dicegame1\\dicegame1\\dicedbcontext\\dicedbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|solutionrelative:dicegame1\\dicedbcontext\\dicedbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|c:\\users\\user\\source\\repos\\dicegame1\\dicegame1\\game\\mydicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|solutionrelative:dicegame1\\game\\mydicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|c:\\users\\user\\source\\repos\\dicegame1\\dicegame1\\game\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|solutionrelative:dicegame1\\game\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|c:\\users\\user\\source\\repos\\dicegame1\\dicegame1\\playerspace\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|solutionrelative:dicegame1\\playerspace\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|c:\\users\\user\\source\\repos\\dicegame1\\dicegame1\\game\\igame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D80E3-4C43-40C7-85C9-43C898DACFD8}|DIceGame1\\DIceGame1.csproj|solutionrelative:dicegame1\\game\\igame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerDataOps.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\DataLayer\\PlayerDataOps.cs",
+              "RelativeDocumentMoniker": "DIceGame1\\DataLayer\\PlayerDataOps.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\DataLayer\\PlayerDataOps.cs",
+              "RelativeToolTip": "DIceGame1\\DataLayer\\PlayerDataOps.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:12:22.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiceDBContextClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\DiceDBContext\\DiceDBContextClass.cs",
+              "RelativeDocumentMoniker": "DIceGame1\\DiceDBContext\\DiceDBContextClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\DiceDBContext\\DiceDBContextClass.cs",
+              "RelativeToolTip": "DIceGame1\\DiceDBContext\\DiceDBContextClass.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:32:23.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDiceGame.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\Game\\MyDiceGame.cs",
+              "RelativeDocumentMoniker": "DIceGame1\\Game\\MyDiceGame.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\Game\\MyDiceGame.cs",
+              "RelativeToolTip": "DIceGame1\\Game\\MyDiceGame.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvyQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:36:52.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\Game\\Dice.cs",
+              "RelativeDocumentMoniker": "DIceGame1\\Game\\Dice.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\Game\\Dice.cs",
+              "RelativeToolTip": "DIceGame1\\Game\\Dice.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:31:29.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGame.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\Game\\IGame.cs",
+              "RelativeDocumentMoniker": "DIceGame1\\Game\\IGame.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\Game\\IGame.cs",
+              "RelativeToolTip": "DIceGame1\\Game\\IGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:22:18.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\PlayerSpace\\Player.cs",
+              "RelativeDocumentMoniker": "DIceGame1\\PlayerSpace\\Player.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\PlayerSpace\\Player.cs",
+              "RelativeToolTip": "DIceGame1\\PlayerSpace\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:08:18.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\Program.cs",
+              "RelativeDocumentMoniker": "DIceGame1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIceGame1\\DIceGame1\\Program.cs",
+              "RelativeToolTip": "DIceGame1\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:06:33.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.centered{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.camera{
+    box-sizing: border-box;
+    width:600px;
+    height: 600px;
+    padding: 30px;
+}
